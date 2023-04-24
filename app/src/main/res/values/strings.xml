@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="amount">Amount: %1$s</string>
+    <string name="time">Time: %1$s</string>
+
+</resources>
